@@ -1,0 +1,15 @@
+Prompt ChatGPT:
+
+1. Faça um texto para ebook, com foco em conformidade e boas práticas de redação de textos, listando as principais orientações para fazer um manual normativo para minha empresa, com exemplos.
+
+{REGRAS}
+
+>Explique de maneira simples
+
+>Deixe o texto enxuto
+
+>Use linguagem formal, mas não rebuscada
+
+>Deixe um título sugestivo por tópico.
+
+2. Acrescente no texto a diferenciação entre regras e procedimentos para a execução
